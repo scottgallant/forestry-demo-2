@@ -37,3 +37,6 @@ fields:
   type: text
   hidden: true
   default: post
+- type: list
+  name: test
+  label: test
